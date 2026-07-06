@@ -1,0 +1,9 @@
+This agreement is between Company A and Company B.
+
+Payment terms: Net 30 days.
+
+Renewal date: 2026-12-01.
+
+Penalty clause: 5% deduction for SLA breach.
+
+Billing occurs monthly.
